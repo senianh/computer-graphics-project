@@ -162,5 +162,6 @@ Proyek ini bertujuan:
 | Rendering  | 2D Real-Time Simulation     |
 
 ---
+| Senia Nur Hasanah   | 140810230021     | 
+| ---------- |---------- |
 
-| Senia Nur Hasanah     | 140810230021                      |
