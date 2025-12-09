@@ -79,18 +79,26 @@ python NeoTerra.py
 ## 🧭 Navigasi Utama
 
 Ketika aplikasi dibuka, pengguna akan berada pada Main Menu.
-Tiga pilihan utama tersedia:
+
+Klik untuk memilih mode.
+
+📸 **NeoTerra — Sustainable City Simulation**
+![Dashboard](screenshots/dashboard.png)
+
+Pilihan utama tersedia:
+
 | Menu                       | Fungsi                            |
 | -------------------------- | --------------------------------- |
 | **Smart City Simulator**   | Simulasi lalu lintas dan polusi   |
 | **Tree Growing Simulator** | Simulasi pertumbuhan pohon        |
 | **Green City Simulator**   | Visualisasi kota ramah lingkungan |
-
-Klik untuk memilih mode.
+| **Keluar**   | Keluar dari program |
 
 ---
 
 ## 🚗 Mode 1: Smart City Simulator
+📸 **Ilustrasi:**
+![Smart City Simulator](screenshots/smartcity.png)
 
 Tujuan:
 
@@ -99,22 +107,31 @@ Mengelola kota agar tetap seimbang antara aktivitas kendaraan dan kualitas udara
 Cara Menggunakan:
 
 1. Tekan A untuk menambah mobil
+2. Tekan Z untuk mengurangi mobil
+3. Tekan S untuk menambah bus
+4. Tekan X untuk mengurangi bus
+5. Tekan D untuk menambah pohon sebagai penurun polusi
+6. Tekan C untuk mengurangi pohon
+7. Tekan SPACE untuk mode otomatis kendaraan
+8. Tekan ESC untuk kembali ke menu utama
 
-2. Tekan S untuk menambah bus
+*Pantau indikator:*
 
-3. Tekan SPACE untuk mode otomatis kendaraan
-
-4. Tekan D untuk menambah pohon sebagai penurun polusi
-
-5. Pantau indikator:
 - Traffic Density (Kepadatan)
+
 - Air Quality Index (AQI)
+
 Semakin banyak kendaraan → AQI naik
+
 Semakin banyak pohon → AQI membaik
 
 
 
+---
 ## 🌱 Mode 2: Tree Growing Simulator
+
+📸 **Green City Simulator**
+![Tree Growing Simulator](screenshots/plant.png)
 Tujuan:
 
 Menanam, merawat, dan membesarkan pohon hingga dewasa.
@@ -134,8 +151,11 @@ Cara Menggunakan:
 5. Insight edukatif akan muncul saat milestone pertumbuhan tercapai.
 
 
-
+---
 ## 🌿 Mode 3: Green City Simulator
+
+📸 **Green City Simulator**
+![Green City Simulator](screenshots/greencity.png)
 Tujuan:
 
 Melihat simulasi kota hijau ideal dengan transportasi ramah lingkungan dan energi rendah emisi.
@@ -150,6 +170,7 @@ Proyek ini bertujuan:
 - Mengedukasi nilai keberlanjutan lingkungan
 - Melatih pemahaman mengenai sistem simulasi berbasis event dan animasi real-time
 
+---
 ## 🛠️ Teknologi yang Digunakan
 
 ---
